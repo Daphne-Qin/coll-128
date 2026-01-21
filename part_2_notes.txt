@@ -1,0 +1,7 @@
+UNIX makes programming easier
+- pipelining allows for smooth flowing between programs independent of IO (since I/O devices are seen as files in the filesystem)
+- formatless files - you don't need much information about a file other than where it is to obtain info from it, it's just a bunch of bytes
+- hierarchical structure
+
+Shell/command interpreter
+- program that waits for input and requests programs
