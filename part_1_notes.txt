@@ -1,0 +1,1 @@
+The most obvious difference between my setup and a clear session is the existence of (base), which comes from having installed Miniconda on WSL2.
