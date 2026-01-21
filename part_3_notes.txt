@@ -1,0 +1,11 @@
+- CS: mix of math (not science), hackers (not science), and people studying computer behavior/algs (scence???)
+- "The way to create something beautiful is often to make subtle tweaks to something that already exists, or to combine existing ideas in a slightly new way"
+- painting and hacking are similar in this regard; programs should be figured out as we go
+- hackers:theory of computation as painters:paint chemistry
+- "Universities and research labs force hackers to be scientists, and companies force them to be engineers" - implementing software and not designing it
+- not much overlap betweeen things that are fun and things that make money
+- open-source is the "real work" - since hackers are makers they have programming jobs as day jobs
+- open-source serves as a reference for coding styles
+- like painting requires beauty so does programming and good coding style
+- empathy is required to make great software - software/code should explain itself
+
